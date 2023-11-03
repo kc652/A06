@@ -1,0 +1,48 @@
+/* the styles for the elements */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+/* the styles for the header */
+header img {
+	float: left;
+}
+header h2{
+	color: rgb(175, 30, 35);
+}
+.shadow{
+	text-shadow: 2px 2px rgb(175, 30, 35);
+	font-weight: bolder;
+}
+
+/* the styles for the main content */
+main {
+	clear: left;
+}
+main h1 {
+	font-size: 150%;
+}
+main h2 {
+	font-size: 130%;
+}
+h2{
+	color: rgb(175, 30, 35);
+
+}
+
+a:focus, a:hover{
+	font-style: italic;
+}
+main h3 {
+	font-size: 105%;
+}
+
+/* the styles for the footer */
+footer{
+	text-align: center; 
+	/*color: white;*/ 
+	/*background-color: rgb(175, 30, 35);*/
+
+
+}
